@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JohnsonMphofe/Downloads/Assignment2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e261b22600ef2ea3c3a2d5c959921a8d575dddc1">
+        <dex dex="/Users/JohnsonMphofe/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_390c3722ceb6325814928ffbf06a602f2059d243/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnsonMphofe/.android/build-cache/94310f989e28c4123533d46e44294f1388de5b22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/JohnsonMphofe/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53430e15b6447942af342fc65de36e396595f359/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnsonMphofe/.android/build-cache/17a47e6c7f4511bd9c9cfaf3eed20495f1f9bac4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/JohnsonMphofe/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1dcf013c7fe625961230200f4d05ae60b9434479/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnsonMphofe/Downloads/Assignment2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/JohnsonMphofe/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a7176be0a3fdea8dbeeb2663342c99b5f6708a3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnsonMphofe/.android/build-cache/d47f8b8109d8b31ca5dfac4df73ab66c1e9f990a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/JohnsonMphofe/Downloads/Assignment2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da4e13a37363dd89e61fe3db69ca7527b39a2352/classes.dex" />
+    </item>
+
+</items>
